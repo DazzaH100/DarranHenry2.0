@@ -135,5 +135,5 @@ nav ul li a:hover::after {
 }
 
 .tab-links.active-link{
-    
+    width: 50%;
 }
