@@ -16,6 +16,8 @@ header{
     background-image: url(images/);
     background-size: cover;
     background-position: center;
+    position: relative;
+    z-index: 1;
 }
 
 .container{
